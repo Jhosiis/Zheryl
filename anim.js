@@ -30,7 +30,7 @@ var lyricsData = [
   { text: "no la pierdas, no hay derecho", time: 138 },
   { text: "no te olides que la vida", time: 141 },
   { text: "casi nunca está dormida", time: 143 },
-  { text: "Si llegaste hasta aqui, GRACIAS POR TU TIEMPO :V", time: 148 },
+  { text: "Si llegaste hasta aqui, ZHERYL NO ESTES TRISTE :V", time: 148 },
 
 ];
 
